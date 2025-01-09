@@ -26,7 +26,5 @@
   #### d) Crea una nueva credencial de tipo "ID de cliente de OAuth"
       Tipo de aplicación: Selecciona "Aplicación web"
       Añade los orígenes autorizados (e.g., http://localhost:5000) y URI de redireccionamiento (e.g., http://localhost:5000/callback)
-### 5. Carga las variables de entorno en tu código
+### 5. Cargar las variables de entorno
 
-
-Deploy en: https://doguito.onrender.com/
